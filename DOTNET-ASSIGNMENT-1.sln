@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTNET-ASSIGNMENT-1", "DOTNET-ASSIGNMENT-1\DOTNET-ASSIGNMENT-1.csproj", "{3EBD215E-7833-43BF-A3B1-44A3D9D40C52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EBD215E-7833-43BF-A3B1-44A3D9D40C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBD215E-7833-43BF-A3B1-44A3D9D40C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBD215E-7833-43BF-A3B1-44A3D9D40C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBD215E-7833-43BF-A3B1-44A3D9D40C52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {876F8B09-90B9-4A7E-BCE7-5FEA4EBC7DA5}
+	EndGlobalSection
+EndGlobal
